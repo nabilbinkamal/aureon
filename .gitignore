@@ -42,3 +42,7 @@ id_rsa*
 server/uploads/*
 !server/uploads/.gitkeep
 
+# Temporary and backup files
+*.backup.*
+*.tmp
+
