@@ -28,6 +28,9 @@ dist-ssr
 *.pem
 .env
 .env.*
+id_rsa*
+*.ppk
+*.keystore
 
 # Archive & Build Bundles
 *.zip
